@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: "Poppins", sans-serif;
 }
 
 .wrapper {
@@ -26,4 +27,9 @@ body {
     text-align: center;
     font-size: 16px;
     font-weight: 700;
+}
+
+.common-btn i {
+    padding-right: 5px;
+    padding-left: 5px;
 }
