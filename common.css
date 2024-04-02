@@ -1,7 +1,35 @@
-body{
+body {
     margin: 0;
+    font-family: "Poppins", sans-serif;
 }
-.wrapper{
+
+.wrapper {
     margin-left: 5%;
-    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.wid-25 {
+    width: 25%;
+
+}
+
+.wid-50 {
+    width: 50%;
+}
+
+.common-btn {
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    background-color: #fff;
+    color: #d19c97;
+    min-width: 50px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.common-btn i {
+    padding-right: 5px;
+    padding-left: 5px;
 }
